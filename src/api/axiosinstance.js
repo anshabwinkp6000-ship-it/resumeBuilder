@@ -2,7 +2,7 @@ import axios from 'axios'
 
 const axiosInstance = axios.create({
   baseURL: 'https://rbuilder-qdrm.onrender.com',
-  timeout: 5000
+  timeout: 60000
 })
 
 // response interceptor: handles common errors in one place
