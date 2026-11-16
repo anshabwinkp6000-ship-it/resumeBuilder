@@ -1,0 +1,15 @@
+#part1{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIA3cxkmAhRDbUe8QeQqW4aqD-PmDJw-0dn7p2sVT5R-EKruh_QdbtS_XR&s=10');
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#part2{
+  background-image: url('https://agcdn-1d97e.kxcdn.com/wp-content/uploads/2017/01/alphagamma-how-to-look-professional-in-a-job-interview-entrepreneurship.jpg');
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
