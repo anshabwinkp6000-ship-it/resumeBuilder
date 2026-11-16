@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import './App.css'
-import Footer from './components/footer'
+import Footer from "./components/Footer";
 import Header from './components/Header'
 import Home from './pages/Home'
 import Steps from './pages/Steps'
@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/steps' element={<Steps />} />
-        <Route path='/Userform' element={<Userform />} />
+        <Route path='/userform' element={<Userform />} />
         <Route path='/history' element={<History />} />
         <Route path='/view/:id' element={<ViewResume />} />
         <Route path='*' element={<Pnf />} />
